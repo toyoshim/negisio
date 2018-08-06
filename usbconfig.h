@@ -26,7 +26,7 @@
 #define USB_CFG_INTERFACE_CLASS              3
 #define USB_CFG_INTERFACE_SUBCLASS           0
 #define USB_CFG_INTERFACE_PROTOCOL           0
-#define USB_CFG_HID_REPORT_DESCRIPTOR_LENGTH 91
+#define USB_CFG_HID_REPORT_DESCRIPTOR_LENGTH 97
 
 /* ------------------- Fine Control over USB Descriptors ------------------- */
 #define USB_CFG_DESCR_PROPS_DEVICE                  0
